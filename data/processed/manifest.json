@@ -1,0 +1,49 @@
+{
+  "group": "Nhom 1",
+  "topic": "D\u1ef1 b\u00e1o ng\u00e0y n\u1eafng n\u00f3ng c\u1ef1c \u0111oan v\u00e0 c\u1ea3nh b\u00e1o s\u00f3ng nhi\u1ec7t nhi\u1ec1u tr\u1ea1m t\u1eeb NOAA GHCN-Daily",
+  "rows": 18270,
+  "cols": [
+    "STATION",
+    "DATE",
+    "TMAX",
+    "TMIN",
+    "PRCP",
+    "hr",
+    "dow",
+    "mon",
+    "doy",
+    "y_lag1",
+    "y_lag2",
+    "y_lag3",
+    "y_lag365",
+    "y_lag730",
+    "y_lag1460",
+    "y_ma_season",
+    "y_sd_season",
+    "y_diff1",
+    "TMIN_lag_season",
+    "PRCP_lag_season",
+    "y_h1",
+    "y_h2",
+    "y_h3"
+  ],
+  "units": 10,
+  "start": "2020-01-01 00:00:00",
+  "end": "2024-12-31 00:00:00",
+  "freq": "D",
+  "horizons": [
+    1,
+    2,
+    3
+  ],
+  "season": 365,
+  "unit_col": "STATION",
+  "time_col": "DATE",
+  "target_col": "TMAX",
+  "exog_cols": [
+    "TMIN",
+    "PRCP"
+  ],
+  "test_start": "2024-01-01",
+  "md5": "fe8d870784e408d06b000f43a517a86a"
+}

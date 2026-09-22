@@ -1,0 +1,3 @@
+date,group,step,prompt,tool,ai_output,verified_how,decision,hallucination
+2026-09-19,Nhom 1,Step 1d,Đề tài Dự báo ngày nắng nóng cực đoan và cảnh báo sóng nhiệt nhiều trạm từ NOAA GHCN-Daily: gợi ý nguồn phụ ghép được theo DATE,Claude,3 nguồn được gợi ý,"mở URL, kiểm tra giấy phép","chọn nguồn ..., loại nguồn ... vì ...",0
+2026-09-19,Nhom 1,Step 2c,Cột TMAX thiếu 0.002 theo cụm; nội suy hay bỏ?,Claude,khuyên interpolate(limit=3),kiểm tra không dùng giá trị tương lai,áp dụng limit=3,0

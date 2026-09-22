@@ -1,0 +1,10 @@
+name,url,license,path,downloaded,rows,cols,start,end,note
+NOAA GHCN-Daily,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,public domain,data/raw/ghcnd_tx.parquet,2026-09-18,18270,5,2020-01-01 00:00:00,2024-12-31 00:00:00,
+NOAA GHCN-Daily,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,public domain,data/raw/ghcnd_tx.parquet,2026-09-18,18270,5,2020-01-01 00:00:00,2024-12-31 00:00:00,
+NWS HeatRisk & Weather Indicators,https://www.weather.gov/heatrisk/,public domain,data/raw/secondary.csv,2026-09-18,1827,2,2020-01-01 00:00:00,2024-12-31 00:00:00,
+NOAA GHCN-Daily,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,public domain,data/raw/ghcnd_tx.parquet,2026-09-18,18270,5,2020-01-01 00:00:00,2024-12-31 00:00:00,
+NOAA GHCN-Daily,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,public domain,data/raw/ghcnd_tx.parquet,2026-09-18,18270,5,2020-01-01 00:00:00,2024-12-31 00:00:00,
+NOAA GHCN-Daily,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,public domain,data/raw/ghcnd_tx.parquet,2026-09-18,18270,5,2020-01-01 00:00:00,2024-12-31 00:00:00,
+NOAA GHCN-Daily,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,public domain,data/raw/ghcnd_tx.parquet,2026-09-18,18270,5,2020-01-01 00:00:00,2024-12-31 00:00:00,
+NOAA GHCN-Daily,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,public domain,data/raw/ghcnd_tx.parquet,2026-09-18,18270,5,2020-01-01 00:00:00,2024-12-31 00:00:00,
+NWS HeatRisk & Weather Indicators,https://www.weather.gov/heatrisk/,public domain,data/raw/secondary.csv,2026-09-18,1827,2,2020-01-01 00:00:00,2024-12-31 00:00:00,

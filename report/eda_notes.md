@@ -1,0 +1,5 @@
+1. Phân phối của biến mục tiêu TMAX có dạng hơi lệch trái với hệ số skewness là -0.03, cho thấy dữ liệu nhiệt độ tối đa tuân theo phân phối gần chuẩn và không bắt buộc phải biến đổi log (Hình EDA 2).
+2. Tự tương quan tại độ trễ 1 (ACF at lag 1) đạt 0.56, phản ánh tính phụ thuộc ngắn hạn mạnh giữa nhiệt độ ngày hôm nay và ngày hôm trước tại các trạm (Hình EDA 8).
+3. Giá trị tự tương quan tại độ trễ chu kỳ mùa (ACF at SEASON) ghi nhận mức 0.219, thể hiện rõ chuỗi dữ liệu có tính chất lặp lại theo mùa trong năm (Hình EDA 8).
+4. Biến động lớn nhất của nhiệt độ trung bình tháng giữa các khoảng thời gian liên tiếp là 0.067, nằm hoàn toàn dưới ngưỡng 0.5 chứng tỏ hệ thống ổn định và không xảy ra hiện tượng dịch chuyển chế độ thời tiết bất thường (Hình EDA 9).
+5. Giá trị trung bình của biến nhiệt độ tối đa (TMAX) trên toàn bộ 18,270 quan sát đạt 30.003 °C (Bảng EDA 1).

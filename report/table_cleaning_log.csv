@@ -1,0 +1,7 @@
+step,rows_before,rows_after,rows_removed,reason
+parse time,18270,18270,0,rows with unparseable timestamps
+drop duplicates,18270,18270,0,same unit and timestamp
+drop missing target,18270,18270,0,target missing
+physical range,18270,18232,38,"outside [8.78, 50.5] (0.1% tails)"
+regular grid + interpolate(limit=3),18270,18270,0,gaps longer than 3 steps dropped
+drop short units,18270,18270,0,0 units with < 90% coverage

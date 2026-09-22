@@ -1,0 +1,4 @@
+test,statistic,p_value
+Kruskal-Wallis target across units,5.98,0.7418006198291704
+Spearman target vs TMIN,0.966,0.0
+Spearman target vs PRCP,-0.004,0.5702744653380654
